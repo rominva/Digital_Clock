@@ -1,2 +1,2 @@
 # Digital_Clock
- a digital clock and simple calender with python
+ a digital clock and simple calendar with python
